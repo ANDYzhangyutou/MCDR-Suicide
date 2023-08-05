@@ -14,4 +14,4 @@ Hello, this is a plugin about MCDR, first you need to know what MCDR is, the lin
 If you know how to use it, you can download this plugin to achieve the following functions:
 1. Use! kill to commit suicide
 This plugin can be a good help for the suicide function of a series of servers such as the original server/fabric that cannot install the plugin
-If your server needs this feature, welcome to this plugin!
+If your server needs this, welcome use this plugin!
